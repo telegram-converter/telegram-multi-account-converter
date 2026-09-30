@@ -28,15 +28,15 @@ English — this file · [Русский](TMAC_GitHub_RU.md) · [简体中文](T
 
 ## 🔄 Conversion directions
 
-| # | Direction | Input | Output |
-|---|-----------|-------|--------|
-| 1 | **Session → Session+JSON** | `.session` files (Telethon / Pyrogram) | Rebuilt `.session` + `.json` |
-| 2 | **TDATA → Session** | Telegram Desktop `tdata` folders | `.session` + `.json` per account |
-| 3 | **Session → TDATA** | `.session` files (+ JSON) (Telethon / Pyrogram) | Telegram Desktop `tdata` folder |
-| 4 | **Mobile → Session** | `tgnet.dat` (official app) · `td.binlog` (Telegram X) | SESSION+JSON (Telethon / Pyrogram) · optional TDATA |
-| 5 | **AuthKey → Session** | Key file: `HASH:DC_ID` / `DC_ID:HASH` / StringSession | `.session` (+ JSON · optional TDATA) |
+| # | Direction | Input | Output | Re-Authorization |
+|---|-----------|-------|--------|-------|
+| 1 | **Session → Session+JSON** | `.session` files (Telethon / Pyrogram) | Rebuilt `.session` + `.json` (Telethon / Pyrogram) | ✅ Yes |
+| 2 | **TDATA → Session** | Telegram Desktop `tdata` folders | `.session` + `.json` per account (Telethon / Pyrogram) | ✅ Yes |
+| 3 | **Session → TDATA** | `.session` files (+ `.json`) (Telethon / Pyrogram) | Telegram Desktop `tdata` folder (+ optional `.session` files (+ `.json`) (Telethon / Pyrogram)) | ✅ Yes |
+| 4 | **Mobile → Session** | `tgnet.dat` (official app) · `td.binlog` (Telegram X) | SESSION+JSON (Telethon / Pyrogram) · optional TDATA | ❌ No |
+| 5 | **AuthKey → Session** | Key file: `HASH:DC_ID` / `DC_ID:HASH` / StringSession | `.session` (Telethon / Pyrogram) (+ `.json` · optional TDATA) | ✅ Yes |
 
-> Every direction supports **re-authorization** (a fresh session via QR login) and **offline cold conversion** where the format allows it.
+> Almost every direction supports **re-authorization** (a fresh session via QR login) and **offline cold conversion** where the format allows it.
 
 ---
 
@@ -79,7 +79,7 @@ English — this file · [Русский](TMAC_GitHub_RU.md) · [简体中文](T
 
 ## 📥 Download
 
-**Always the latest release** → [telegram-converter.com](https://telegram-converter.com/converter/tmac-converter/)
+**Always the latest release** → [telegram-converter.com](https://telegram-converter.com/converter/telegram-multi-account-converter/)
 
 ---
 
