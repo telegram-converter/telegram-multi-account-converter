@@ -21,7 +21,7 @@
 
 ### 🌐 Языки
 
-[English](TMAC_GitHub_EN.md) · Русский — этот файл · [简体中文](TMAC_GitHub_CN.md)
+[English](TMAC_GitHub.md) · Русский — этот файл · [简体中文](TMAC_GitHub_CN.md)
 
 ---
 
