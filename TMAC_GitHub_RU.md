@@ -21,7 +21,7 @@
 
 ### 🌐 Языки
 
-[English](README.md) · Русский — этот файл · [简体中文](TMAC_GitHub_CN.md)
+[English](TMAC_GitHub_EN.md) · Русский — этот файл · [简体中文](TMAC_GitHub_CN.md)
 
 ---
 
@@ -84,7 +84,13 @@
 
 ## 🖼️ Скриншоты
 
-<!-- TODO: добавить ссылки на скриншоты -->
+<img width="256" alt="TMAC_RU_001" src="https://github.com/user-attachments/assets/33221da3-81e0-4291-ba16-f3a35d39e9e4" />
+<img width="256" alt="TMAC_RU_002" src="https://github.com/user-attachments/assets/ee4ec6a8-b71d-4208-ab11-a57ee4f88820" />
+<img width="256" alt="TMAC_RU_003" src="https://github.com/user-attachments/assets/9bc6f4d1-81ae-4f0e-90fb-7077887c0fca" />
+<img width="256" alt="TMAC_RU_004" src="https://github.com/user-attachments/assets/329f0cb5-76da-4d0d-a5d5-f1920e24c700" />
+<img width="256" alt="TMAC_RU_005" src="https://github.com/user-attachments/assets/c36a2a72-b061-4078-9808-eafd5366e567" />
+<img width="256" alt="TMAC_RU_006" src="https://github.com/user-attachments/assets/78375282-36e6-4a82-897d-5195406d851e" />
+<img width="256" alt="TMAC_RU_007" src="https://github.com/user-attachments/assets/1da5b88f-17fa-4484-b7e0-1b775b0a98c3" />
 
 ---
 
