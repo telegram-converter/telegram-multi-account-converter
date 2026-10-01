@@ -85,7 +85,13 @@ English — this file · [Русский](TMAC_GitHub_RU.md) · [简体中文](T
 
 ## 🖼️ Screenshots
 
-<!-- TODO: add screenshot URLs -->
+<img width="256" alt="TMAC_EN_001" src="https://github.com/user-attachments/assets/bfb4fded-a579-492d-abdb-6abc7879f7b1" />
+<img width="256" alt="TMAC_EN_002" src="https://github.com/user-attachments/assets/49c9e5c3-f421-4cf2-a020-f5ad70bae814" />
+<img width="256" alt="TMAC_EN_003" src="https://github.com/user-attachments/assets/b4553712-a978-4401-80f9-05fa6ac8cbb1" />
+<img width="256" alt="TMAC_EN_004" src="https://github.com/user-attachments/assets/15aa59a2-65ec-4cef-bfae-8de43583ba51" />
+<img width="256" alt="TMAC_EN_005" src="https://github.com/user-attachments/assets/b77191f9-e689-4593-93cf-8cc75e7cebd6" />
+<img width="256" alt="TMAC_EN_006" src="https://github.com/user-attachments/assets/60042bdd-a6b8-4927-a742-e55ffb47c6ab" />
+<img width="256" alt="TMAC_EN_007" src="https://github.com/user-attachments/assets/81b610e6-466a-4994-96f4-6db05d1ade4f" />
 
 ---
 
